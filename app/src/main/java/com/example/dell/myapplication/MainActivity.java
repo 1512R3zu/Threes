@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         Log.e("daxiong","涛");
         Log.e("daxiong","涛1");
         Log.e("韩高雄","韩高雄");
+        Log.e("GG","hahah");
 
 
     }
