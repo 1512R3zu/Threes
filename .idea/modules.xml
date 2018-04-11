@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Threes.iml" filepath="$PROJECT_DIR$/Threes.iml" />
       <module fileurl="file://D:\AndroidStudioProjects\Threes\Threes.iml" filepath="D:\AndroidStudioProjects\Threes\Threes.iml" />
       <module fileurl="file://F:\Threes\Threes.iml" filepath="F:\Threes\Threes.iml" />
+      <module fileurl="file://E:\ecmp_jlj\Threesxx\Threes.iml" filepath="E:\ecmp_jlj\Threesxx\Threes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Threesxx.iml" filepath="$PROJECT_DIR$/.idea/Threesxx.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://F:\Threes\app\app.iml" filepath="F:\Threes\app\app.iml" />
+      <module fileurl="file://E:\ecmp_jlj\Threesxx\app\app.iml" filepath="E:\ecmp_jlj\Threesxx\app\app.iml" />
     </modules>
   </component>
 </project>
